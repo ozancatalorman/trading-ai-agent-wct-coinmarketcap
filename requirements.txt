@@ -1,0 +1,5 @@
+langchain==0.3.27
+langchain-core==0.3.75
+langchain-openai==0.3.32
+langgraph==0.6.6
+dotenv==0.9.9
